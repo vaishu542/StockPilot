@@ -1,0 +1,11 @@
+/* styles.css */
+.modal-custom-width {
+    width: 500px;
+  }
+  
+  @media (max-width: 640px) {
+    .modal-custom-width {
+      width: 320px !important;
+    }
+  }
+  
